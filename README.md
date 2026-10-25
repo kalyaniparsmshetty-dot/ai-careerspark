@@ -1,5 +1,7 @@
 # AI CareerSpark: AI-Powered Career Assistant
 
+🚀 Live Demo: https://ai-careerspark-aubjueeu3dni9zhdj2g5rr.streamlit.app/
+
 *Understand the role. Improve your skills. Prepare with confidence.*
 
 A free, beginner-friendly web app (Python + Streamlit) that helps fresh graduates, entry-level applicants and career changers to:
