@@ -42,8 +42,14 @@ ai-careerspark/
 │   └── SUBMISSION_CHECKLIST.md
 ├── requirements.txt          streamlit
 └── requirements-dev.txt      streamlit + pytest (only needed to run tests)
-```
-
+├── Screenshots/
+    ├── dashboard.png        
+    ├── job-description.png           
+    ├── resume-and-skills matcher.png
+    ├── interview-preparation.png
+    ├── resume improvement.png
+    ├── about-help.png 
+ 
 ## Quick start (Windows, PowerShell, inside the project folder)
 
 ```powershell
