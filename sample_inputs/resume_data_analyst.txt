@@ -1,0 +1,9 @@
+Computer Science graduate with project experience in Python and data analysis.
+
+Projects:
+- Built a student marks analysis project using Python, Pandas and Excel to find average scores by subject.
+- Created charts and a simple dashboard to show results to classmates.
+- Worked on a team of four for a college mini project and presented the results in class.
+
+Skills: Python, Excel, HTML, CSS, Git, teamwork, communication
+Education: B.Sc. Computer Science
